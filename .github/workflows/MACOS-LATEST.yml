@@ -1,4 +1,4 @@
-name: Test Uppercase macOS
+name: Test MACOS-LATEST
 
 on:
   workflow_dispatch:
