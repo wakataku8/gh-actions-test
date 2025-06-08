@@ -1,4 +1,4 @@
-name: Test Uppercase macOS
+name: Test Mix Windows
 
 on:
   workflow_dispatch:
