@@ -1,0 +1,12 @@
+name: Test Uppercase macOS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: MACOS-LATEST
+    steps:
+      - name: Print OS info
+        run: |
+          echo "Running on MACOS-LATEST"
