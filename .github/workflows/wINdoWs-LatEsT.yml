@@ -1,4 +1,4 @@
-name: Test Mix Windows
+name: Test wINdoWs-LatEsT
 
 on:
   workflow_dispatch:
@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Print OS info
         run: |
-          echo "Running on MACOS-LATEST"
+          echo "Running on wINdoWs-LatEsT"
