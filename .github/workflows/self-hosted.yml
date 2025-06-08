@@ -1,4 +1,4 @@
-name: Test Uppercase macOS
+name: Test self-hosted
 
 on:
   workflow_dispatch:
