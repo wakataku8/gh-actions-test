@@ -1,4 +1,4 @@
-name: Test Lowercase macOS
+name: Test macos-latest
 
 on:
   workflow_dispatch:
